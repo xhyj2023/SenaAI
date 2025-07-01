@@ -12,7 +12,7 @@ CONFIG = {
     "channels": 1,  # 声道数
     "duration": 5,  # 默认录音时长(秒)
     "whisper_model": "base",  # Whisper模型大小 (tiny, base, small, medium, large)
-    "deepseek_api_key": "sk-f05c168c8cce4590a1ea45a37b4e0583",  # 替换为你的DeepSeek API密钥
+    "deepseek_api_key": "yourkey",  # 替换为你的DeepSeek API密钥
     "deepseek_model": "deepseek-chat",  # DeepSeek模型
     "output_dir": "recordings"  # 录音文件保存目录
 }
